@@ -20,7 +20,7 @@ Checks the Windows registry to see if Windows Dark Mode is enabled
 ---
 **`procedure SetAppropriateThemeMode(const DarkModeThemeName, LightModeThemeName: string);`**
 
-Automatically sets a Dark Mode theme is Windows is running in Dark Mode
+Automatically sets a Dark Mode theme if Windows is running in Dark Mode
 To use:
 1. Got to project properties
 2. Select appearance and choose two or more themes.  Note down the names!
