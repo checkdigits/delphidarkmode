@@ -3,8 +3,8 @@
 
  Originally written by **Ian Barker**
             
-* [https:github.com/checkdigits](https:github.com/checkdigits)
-* [https:about.me/IanBarker](https:about.me/IanBarker)
+* [https://github.com/checkdigits](https://github.com/checkdigits)
+* [https://about.me/IanBarker](https://about.me/IanBarker)
 * [ian.barker@gmail.com](mailto:ian.barker@gmail.com)
 
  *Free software - use for any purpose including commercial use.*
