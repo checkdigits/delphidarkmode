@@ -7,6 +7,8 @@
 * [https://about.me/IanBarker](https://about.me/IanBarker)
 * [ian.barker@gmail.com](mailto:ian.barker@gmail.com)
 
+There is a blog post describing this code and the reasoning behind it here: [https://www.codedotshow.com/blog/coderage-2019-vcl-the-dark-side/](https://www.codedotshow.com/blog/coderage-2019-vcl-the-dark-side/)
+
  *Free software - use for any purpose including commercial use.*
 
 
